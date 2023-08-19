@@ -1,6 +1,0 @@
-/* Always On-Screen Crosshair */
-.crosshair-static{
-    visibility: visible !important;
-    position: absolute;
-    display: flex !important;
-}
